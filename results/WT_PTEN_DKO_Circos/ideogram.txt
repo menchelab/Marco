@@ -1,0 +1,13 @@
+chr - C1 WILD 0 10 black
+chr - C2 PTEN 0 10 black
+chr - C3 DKO 0 10 black
+chr - PC PC 0 45 152,223,138
+chr - TAG TAG 0 21 140,86,75
+chr - LPC LPC 0 20 255,187,120
+chr - PE PE 0 20 214,39,40
+chr - PS PS 0 19 148,103,189
+chr - SM SM 0 18 197,176,213
+chr - DAG DAG 0 8 255,127,14
+chr - LPE LPE 0 5 44,160,44
+chr - Cer Cer 0 3 174,199,232
+chr - PI PI 0 2 255,152,150
