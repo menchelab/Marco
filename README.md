@@ -2,7 +2,7 @@
 
 ## Study authors
 
-Julia Stefanie Brunner, Andrea Vogel, Alexander Lercher, Michael Caldera, Ana Korosec, Marlene Pühringer-Sumayr, Melanie Hofmann, Alexander Hatjo, Markus Kieler, Ildiko Mesteri, Amanda Brandon, Florian Gruber, Jörg Menche, Andreas Bergthaler, Thomas Weichhart, Kristaps Klavins, Mark Febbraio, Omar Sharif, Gernot Schabbauer
+Julia S Brunner, Andrea Vogel, Alexander Lercher, Michael Caldera, Ana Korosec, Marlene Pühringer, Melanie Hofmann, Alexander Hajto, Markus Kieler, Lucia Quemada Garrido, Martina Kerndl, Mario Kuttke, Ildiko Mesteri, Maria W Górna, Marta Kulik, Paulina M Dominiak, Amanda E Brandon, Emma Estevez, Casey L Egan, Florian Gruber, Martina Schweiger, Jörg Menche, Andreas Bergthaler, Thomas Weichhart, Kristaps Klavins, Mark A Febbraio, Omar Sharif, Gernot Schabbauer
 
 Correspondence to: gernot.schabbauer@meduniwien.ac.at and omar.sharif@meduniwien.ac.at.
 
